@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Currently, I'm actively seeking opportunities to apply my skills in web development and software deveopment, eager to contribute and grow in a professional setting. I'm passionate about crafting intuitive applications that offer meaningful user experiences.<br><br>I'm eagerly exploring job opportunities to further develop my skills and contribute effectively to a team. I'm open to connecting with professionals, learning from their experiences, and contributing my enthusiasm to innovative projects.<br><br> If you're interested in collaborating or discussing potential opportunities, feel free to reach out to me: rubensamuelk@gmail.com .</p>
+<p align="left">Currently, I'm actively seeking opportunities to apply my skills in web development and software deveopment, eager to contribute and grow in a professional setting. I'm passionate about crafting intuitive applications that offer meaningful user experiences.<br><br>I'm eagerly exploring job opportunities to further develop my skills and contribute effectively to a team. I'm open to connecting with professionals, learning from their experiences, and contributing my enthusiasm to innovative projects.<br><br> If you're interested in collaborating or discussing potential opportunities, feel free to reach out to me: rubensamuelk@gmail.com</p>
 
 ###
 

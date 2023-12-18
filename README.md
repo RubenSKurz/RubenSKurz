@@ -1,14 +1,33 @@
-# 💫 About Me:
-I am currently studying programming <br>and looking to become a Full-stack developer 
+<h1 align="left">Hey, nice to meet you!</h1>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RubenSKurz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RubenSKurz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSKurz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=RubenSKurz&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">Hello there! I'm Ruben Kurz, a motivated new developer exploring the realm of programming and technology.I thrive on challenges and cherish delving into new projects that expand my skill set and love continuous learning and collaboration.</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Currently, I'm actively seeking opportunities to apply my skills in web development and software deveopment, eager to contribute and grow in a professional setting. I'm passionate about crafting intuitive applications that offer meaningful user experiences.<br><br>I'm eagerly exploring job opportunities to further develop my skills and contribute effectively to a team. I'm open to connecting with professionals, learning from their experiences, and contributing my enthusiasm to innovative projects.<br><br> If you're interested in collaborating or discussing potential opportunities, feel free to reach out to me: rubensamuelk@gmail.com .</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
